@@ -35,7 +35,7 @@ function Facts (){
             </div>
 
             <div className="container">
-                <img src={image} width='500' height='300'/>
+                <img src={image} width='500' height='300' alt="fact"/>
             </div>
             <div className="container">
                 <h2>Fact №{id}</h2>
